@@ -9,8 +9,9 @@
 title: Wiki for the Continent of Tivaron
 email: trenidydella@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
-  Use this page for information on Tivaron. This includes the three countries of Nildor, Quintain, and Aurealius, 
-  as well as character information for many of the people who can be encountered. Additionally, key places are also available.  
+  Use this page for information on Tivaron. This includes the three countries of 
+  Nildor, Quintain, and Aurealius, as well as character information for many of 
+  the people who can be encountered. Additionally, key places are also available.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
